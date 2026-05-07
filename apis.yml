@@ -18,6 +18,12 @@ apis: []
 common:
   - type: Website
     url: https://www.te.com/
+  - type: Plans
+    url: plans/te-connectivity-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/te-connectivity-rate-limits.yml
+  - type: FinOps
+    url: finops/te-connectivity-finops.yml
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
