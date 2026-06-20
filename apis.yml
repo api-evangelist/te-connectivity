@@ -4,7 +4,7 @@ name: TE Connectivity
 kind: company
 description: >-
   TE Connectivity is a global manufacturer of connectors and sensors headquartered in Galway, Ireland with operational headquarters in Berwyn, Pennsylvania. TE provides electrical connectivity and sensor solutions for transportation, industrial, and communications markets, with strong automotive Tier 1 supply relationships.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Connectors
   - Sensors
