@@ -1,0 +1,31 @@
+# Front Door AI Index — te-connectivity — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: te-connectivity
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.te.com
+  final_host: www.te.com
+  ownership: own
+  owner: te-connectivity
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 16
+  host_score: 16
+  density: 5.3
+  words: 3021
+  tiers:
+    agentic: 1
+    core: 14
+    model: 1
+  ambiguous: 14
+  top_terms:
+    AI: 12
+    automation: 6
+    intelligence: 4
+    smart: 4
+    artificial intelligence: 2
+    embedding: 1
+    transformer: 1
