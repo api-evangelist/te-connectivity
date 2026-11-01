@@ -1,4 +1,4 @@
-# TE Connectivity (te-connectivity)
+# TE Connectivity
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,44 +66,96 @@
 
 TE Connectivity is a global manufacturer of connectors and sensors headquartered in Galway, Ireland with operational headquarters in Berwyn, Pennsylvania. TE provides electrical connectivity and sensor solutions for transportation, industrial, and communications markets, with strong automotive Tier 1 supply relationships.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/te-connectivity/refs/heads/main/apis.yml)
+**Areas:** Connectors · Sensors · Automotive · Industrial · Tier 1 Supplier
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=te-connectivity-api-evangelist&utm_content=repo)
+## TE Connectivity on APIs.io
 
-## Type
+Everything profiled for TE Connectivity is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/te-connectivity/](https://apis.io/providers/te-connectivity/)** — or go straight to one of the APIs or properties below.
 
-- **x-type:** company
+### Published properties
 
-## Tags:
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
- - Connectors, Sensors, Automotive, Industrial, Tier 1 Supplier
+#### Security (1)
 
-## Timestamps
+Authentication, trust centre, and vulnerability disclosure.
 
-- **Created:** 2026-05-06
-- **Modified:** 2026-05-06
+- [Te Connectivity Domain Security](https://apis.io/security/te-connectivity/te-connectivity-domain-security/)
 
-## APIs
+#### Plans and pricing (1)
 
-No public APIs have been documented. TE Connectivity is a Tier 1 automotive supplier whose external interfaces are EDI, supplier portals, and customer-specific OEM integration channels rather than public REST APIs.
+Published plans, tiers and prices.
 
-## Common Properties
+- [Te Connectivity Plans Pricing](https://apis.io/plans/te-connectivity/te-connectivity-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Te Connectivity Rate Limits](https://apis.io/rate-limits/te-connectivity/te-connectivity-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Te Connectivity Finops](https://apis.io/finops/te-connectivity/te-connectivity-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.te.com/)
-- [Plans](plans/te-connectivity-plans-pricing.yml) — API Commons Plans 0.1 (placeholder; no public pricing)
-- [RateLimits](rate-limits/te-connectivity-rate-limits.yml) — API Commons Rate Limits 0.1 (placeholder; no public limits)
-- [FinOps](finops/te-connectivity-finops.yml) — FOCUS-aligned FinOps Framework 1.0 (placeholder; no public billing surface)
+- [GitHub](https://github.com/TEConnectivity)
 
-## Artifacts
+## API Evangelist rating
 
-| Artifact | Path | Notes |
-|---|---|---|
-| Plans | `plans/te-connectivity-plans-pricing.yml` | Contact-Sales placeholder; commercial terms negotiated per contract. |
-| Rate Limits | `rate-limits/te-connectivity-rate-limits.yml` | Contract-scoped placeholder; no public throttling thresholds. |
-| FinOps | `finops/te-connectivity-finops.yml` | FOCUS-aligned placeholder; invoices issued under contract terms. |
+**Kin Score 5.5** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Maintainers
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 5.3 |
 
-**FN:** Kin Lane
+**Agent readiness 0.6** — human-only
 
-**Email:** kin@apievangelist.com
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/te-connectivity/](https://apis.io/providers/te-connectivity/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for TE Connectivity: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/te-connectivity/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
